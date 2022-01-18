@@ -69,4 +69,4 @@ public interface IDictBehavior extends IAggregateRoot {
 
 这样的好处，显而易见，让开发人员在设计对象方法的时候更加聚焦，而不会混乱
 
-继续阅读 [边车对象](domain/side_car.md)
+继续阅读 [边车对象](ddd/side_car.md)

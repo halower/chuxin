@@ -5,8 +5,8 @@
 
   开发人员开始将数据模型和行为建模单独进行思考，然后进行统一整合
 
-  
-为了帮助非`DDD`开发人员在转换过程种的不适应，特此将`行为`使用[聚合行为接口](domain/bx.md)进行约束和单独定义
+
+为了帮助非`DDD`开发人员在转换过程种的不适应，特此将`行为`使用[聚合行为接口](ddd/bx.md)进行约束和单独定义
 
 ```java
 public interface IDictBehavior extends IAggregateRoot {
